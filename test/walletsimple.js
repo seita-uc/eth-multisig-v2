@@ -123,7 +123,6 @@ contract('WalletSimple', function(accounts) {
     });
   });
 
-  /*
   Commented out because tryInsertSequenceId and recoverAddressFromSignature is private. Uncomment the private and tests to test this.
   Functionality is also tested in the sendMultiSig tests.
 
