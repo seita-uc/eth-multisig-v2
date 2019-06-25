@@ -19,6 +19,9 @@
     "ethereum"
   ],
   "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
     "bip39": "2.3.0",
     "bluebird": "^3.3.5",
     "bn": "^1.0.1",
